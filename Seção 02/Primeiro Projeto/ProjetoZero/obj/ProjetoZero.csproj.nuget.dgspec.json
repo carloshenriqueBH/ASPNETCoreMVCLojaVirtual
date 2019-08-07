@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlh\\Desktop\\Curso\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj": {}
+    "C:\\Users\\carlh\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlh\\Desktop\\Curso\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj": {
+    "C:\\Users\\carlh\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlh\\Desktop\\Curso\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj",
+        "projectUniqueName": "C:\\Users\\carlh\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj",
         "projectName": "ProjetoZero",
-        "projectPath": "C:\\Users\\carlh\\Desktop\\Curso\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj",
+        "projectPath": "C:\\Users\\carlh\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero.csproj",
         "packagesPath": "C:\\Users\\carlh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlh\\Desktop\\Curso\\Primeiro Projeto\\ProjetoZero\\obj\\",
+        "outputPath": "C:\\Users\\carlh\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -55,6 +55,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
